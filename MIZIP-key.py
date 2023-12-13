@@ -52,7 +52,7 @@ if __name__ == '__main__':
 	print('+-----+-----------------------------+')
 	print('| UID | %s                    |' % _uid)
 	print('+-----+--------------+--------------+')
-	print('| SEC | key A        | key B        |')
+	print('| SEC | keys A       | keys B       |')
 	print('+-----+--------------+--------------+')
 	print('| 000 | a0a1a2a3a4a5 | b4c132439eef |')
 	for sec, xorA, xorB in xortable:
