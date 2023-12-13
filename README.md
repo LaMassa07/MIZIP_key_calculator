@@ -10,5 +10,9 @@ Easy and fast MIZIP keys calculator
 In a phone which have NFC reader, install '_MIFARE Classic Tool_'.
 Than, open the app and choose '_Tools_', than '_Clone UID_'.
 
+
+# screenshot
+![SCREENSHOT](https://github.com/LaMassa07/MIZIP_key_calculator/assets/153093277/1d16cde4-61e6-4541-9ca8-aa98975cee95)
+
 # Disclaimer
 DO NOT USE FOR ILLEGAL PURPOSE!
